@@ -1,0 +1,9 @@
+
+ Pre-requisites for installing SPar in your GNU/Linux x86_64  (only supports Linux environments)
+
+	- g++-5.x.x
+	- subversion
+
+ To install is enough to type the following command:
+
+	$ make 

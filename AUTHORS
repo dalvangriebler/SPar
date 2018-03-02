@@ -1,0 +1,10 @@
+
+This is the SPar compiler (a new embedded C++ domain-specific language for stream parallelism)
+
+	The SPar is originally designed and created by Dalvan Griebler. 
+
+SPar Maintainers:
+----------------------------
+
+"Dalvan Griebler" = dalvan.griebler@acad.pucrs.br
+
