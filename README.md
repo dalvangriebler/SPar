@@ -1,5 +1,15 @@
-SPar is an internal C++ Domain-Specific Language (DSL) for expressing high-level stream parallelism.
+[SPar](https://gmap.pucrs.br/spar-wiki/) is an internal C++ Domain-Specific Language (DSL) for expressing high-level stream parallelism. 
 
+# How to Cite SPar
+
+Griebler, D.; Danelutto, M.; Torquati, M.; Fernandes, L. G. **SPar: a DSL for High-Level and Productive Stream Parallelism**. *Parallel Processing Letters (PPL)*, 27 (01), pp. 1740005, 2017.
+
+
+# Other publications with SPar
+
+Griebler, Dalvan; Filho, Renato B H; Danelutto, Marco; Fernandes, Luiz Gustavo. **High-Level and Productive Stream Parallelism for Dedup, Ferret, and Bzip2**. *International Journal of Parallel Programming*, pp. 1-19, 2018.
+
+[Here are more publications](https://gmap.pucrs.br/spar-wiki/scientific-publications/)
 
 
 # Root directory description
