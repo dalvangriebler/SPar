@@ -36,18 +36,14 @@ are the libraries used by SPar
 
 ## SPar compilation flags
 
- Used to print in the screen the generated code
-	-spar_print
-
- Used to generate ondmand scheduler
-	-spar_ondemand [<queue_size>]
-
- Used to preserve the stream elements' ordered
-	-spar_ordered
-
- Used to activate the blocking mode of FastFlow
-	-spar_blocking
-
+* -spar_print => used to print in the screen the generated code
+	
+* -spar_ondemand [<queue_size>] => used to generate ondmand scheduler
+	
+* -spar_ordered => used to preserve the stream elements' ordered
+	
+* -spar_blocking => used to activate the blocking mode of FastFlow
+	
 
 *Obs: you may use '-h' to see more options*
 
