@@ -29,8 +29,8 @@
  *  apply the filter sobel and save the image filtered in the root directory.
  *  File Name: sobel.cpp
  *  Version: 1.0 (14/07/2016)
- *  Compilation Command: spar -std=c++1y -spar_file sobel.cpp -o exe
- *	Exacution Command: ./exe 800x600/
+ *  Compilation Command: spar -O3 -std=c++1y -spar_file sobel.cpp -o exe
+ *	Execution Command: ./exe 800x600/
 */
 
 #include <cassert>
@@ -42,6 +42,7 @@
 #include <cstdint>
 #include <chrono>
 #include <dirent.h>
+#include <cmath>
 
 #define BYTES_BLOCK	6000000
 #define DESTINATION_DIR	"filtered/"
