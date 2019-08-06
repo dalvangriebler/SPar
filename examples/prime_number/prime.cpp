@@ -29,7 +29,7 @@
  *  File Name: prime.cpp
  *  Version: 1.0 (17/07/2016)
  *  Compilation Command: spar -std=c++1y -spar_file prime.cpp -spar_ondemand -o exe
- *	Exacution Command: ./exe -h
+ *	Execution Command: ./exe -h
 */
 
 #include <cstdlib>
